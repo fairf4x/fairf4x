@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fairf4x
+- 👀 I’m interested in knowledge engineering, automated planning and robotics
